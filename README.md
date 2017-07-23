@@ -1,5 +1,7 @@
 # Sentiment-Analysis_-Data-Exploration-and-Preparation
- In any data science project, it is very import to explore the data and prepare it to employ machine learning algorithm for analytics. Accordingly, the data set was imported and explored and then necessary preparations such as cleaning the dataset, transforming words into feature vectors, tokenizing and stemming documents and stop words into individual words have been performed as follows.
+The dataset I chose to work on it is the “A Large Movie Review Dataset” which is found at http://ai.stanford.edu/~amaas/data/sentiment/.  In this section the data preparation process is  discussed. 
+
+In any data science project, it is very import to explore the data and prepare it to employ machine learning algorithm for analytics. Accordingly, the data set was imported and explored and then necessary preparations such as cleaning the dataset, transforming words into feature vectors, tokenizing and stemming documents and stop words into individual words have been performed as follows.
 
 CLEANING DATA
 
