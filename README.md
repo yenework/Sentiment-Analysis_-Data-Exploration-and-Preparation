@@ -16,4 +16,4 @@ Before moving to developing a machine learning model on the cleaned data, the te
 
 STOP WORDS
  
-To remove extremely common words such as is, and has etc., the English 127 stop word set, which is available from NLTK library was used as follows.
+To remove extremely common words such as is, and has etc., the English 127 stop word set, which is available from NLTK library was used .
