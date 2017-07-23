@@ -2,6 +2,7 @@
  In any data science project, it is very import to explore the data and prepare it to employ machine learning algorithm for analytics. Accordingly, the data set was imported and explored and then necessary preparations such as cleaning the dataset, transforming words into feature vectors, tokenizing and stemming documents and stop words into individual words have been performed as follows.
 
 CLEANING DATA
+
 After the data was imported and explored, one of the steps of preparing the dataset was cleaning it.  The purpose of cleaning the data is to remove non-letter characters that are not related to emotion. To do so, regex library from python was used.  As can be seen below the non-letter character such as <, > and / are removed after cleaning the data.
 
 REPRESENTING TEXT AS NUMERICAL FEATURE VECTORS 
